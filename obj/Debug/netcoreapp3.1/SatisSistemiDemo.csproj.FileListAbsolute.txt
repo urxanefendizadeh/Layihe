@@ -1,0 +1,13 @@
+C:\Users\Picaroon\Desktop\folder of folders\C#\C#\SatisSistemi\SatisSistemiDemo\bin\Debug\netcoreapp3.1\SatisSistemiDemo.exe
+C:\Users\Picaroon\Desktop\folder of folders\C#\C#\SatisSistemi\SatisSistemiDemo\bin\Debug\netcoreapp3.1\SatisSistemiDemo.deps.json
+C:\Users\Picaroon\Desktop\folder of folders\C#\C#\SatisSistemi\SatisSistemiDemo\bin\Debug\netcoreapp3.1\SatisSistemiDemo.runtimeconfig.json
+C:\Users\Picaroon\Desktop\folder of folders\C#\C#\SatisSistemi\SatisSistemiDemo\bin\Debug\netcoreapp3.1\SatisSistemiDemo.runtimeconfig.dev.json
+C:\Users\Picaroon\Desktop\folder of folders\C#\C#\SatisSistemi\SatisSistemiDemo\bin\Debug\netcoreapp3.1\SatisSistemiDemo.dll
+C:\Users\Picaroon\Desktop\folder of folders\C#\C#\SatisSistemi\SatisSistemiDemo\bin\Debug\netcoreapp3.1\SatisSistemiDemo.pdb
+C:\Users\Picaroon\Desktop\folder of folders\C#\C#\SatisSistemi\SatisSistemiDemo\obj\Debug\netcoreapp3.1\SatisSistemiDemo.csprojAssemblyReference.cache
+C:\Users\Picaroon\Desktop\folder of folders\C#\C#\SatisSistemi\SatisSistemiDemo\obj\Debug\netcoreapp3.1\SatisSistemiDemo.AssemblyInfoInputs.cache
+C:\Users\Picaroon\Desktop\folder of folders\C#\C#\SatisSistemi\SatisSistemiDemo\obj\Debug\netcoreapp3.1\SatisSistemiDemo.AssemblyInfo.cs
+C:\Users\Picaroon\Desktop\folder of folders\C#\C#\SatisSistemi\SatisSistemiDemo\obj\Debug\netcoreapp3.1\SatisSistemiDemo.csproj.CoreCompileInputs.cache
+C:\Users\Picaroon\Desktop\folder of folders\C#\C#\SatisSistemi\SatisSistemiDemo\obj\Debug\netcoreapp3.1\SatisSistemiDemo.dll
+C:\Users\Picaroon\Desktop\folder of folders\C#\C#\SatisSistemi\SatisSistemiDemo\obj\Debug\netcoreapp3.1\SatisSistemiDemo.pdb
+C:\Users\Picaroon\Desktop\folder of folders\C#\C#\SatisSistemi\SatisSistemiDemo\obj\Debug\netcoreapp3.1\SatisSistemiDemo.genruntimeconfig.cache
